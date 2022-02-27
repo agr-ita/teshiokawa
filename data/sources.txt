@@ -1,0 +1,10 @@
+Weather data Nakagawa/Asahikawa -- http://www.data.jma.go.jp/gmd/risk/obsdl/index.php
+
+Global River Thawing -- http://nsidc.org/data/lake_river_ice/freezethaw.html
+
+Canada Weather -- https://climate.weather.gc.ca/climate_data/daily_data_e.html
+
+http://www1.river.go.jp/cgi-bin/SiteInfo.exe?ID=301011281104120
+
+Paper Teshio -- https://www.hkd.mlit.go.jp/ky/jg/gijyutu/splaat000001t52c-att/splaat000001t5b9.pdf
+
